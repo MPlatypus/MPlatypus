@@ -10,7 +10,7 @@ Hi, im MPlatypus, or MPlatypus, i enjoy programming in python and java, and i am
 - Nasm
 
 
-You can contact me via discord on MPlaty#7159 if you wish to converse
+You can contact me via discord on `mplatypus` if you wish to converse
 
 <!---
 MPlatypus/MPlatypus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
